@@ -6,8 +6,7 @@
 
   console.log('This code will run only if val equals 1');
   
-}
-`
+}`
 
 * Create a loop that logs the numbers from 99-0 (descending)
 
