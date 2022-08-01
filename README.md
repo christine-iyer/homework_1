@@ -3,10 +3,8 @@
 * Create a loop that logs the numbers from 0-99 (ascending)
 
 `if (val === 1) {
-
-  console.log('This code will run only if val equals 1');
-  
-}`
+console.log('This code will run only if val equals 1');
+  }`
 
 * Create a loop that logs the numbers from 99-0 (descending)
 
