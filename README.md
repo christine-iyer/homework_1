@@ -3,8 +3,7 @@
 ### Basic Loop Syntax
 
 ##### while loops: 
-
-Execute while a condition is true
+Execute while a condition is true. BEWARE of infinite loops. 
 
 * Create a loop that logs the numbers from 0-99 (ascending)
 
